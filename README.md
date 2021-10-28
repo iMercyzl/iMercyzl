@@ -4,7 +4,7 @@
 
 - 🌱 Estudando: JAVASCRIPT, HTML5 e CSS3
 - 😅 Tentando Iniciar uma nova carreira
-- 🤝 A Procura de colaborar em projetos para ganhar experiencia de projetos em equipe
+- 🤝 A Procura de colaborar de pequenos projetos para ganhar experiência de projetos em equipe
 - 😄 Pronouns: ele/dele
 
 
