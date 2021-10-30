@@ -10,8 +10,8 @@
 
 <div>
   <a href='https://www.linkedin.com/in/imercyzl/' target='_blank'>
-  <img height ='160em' src='https://github-readme-stats.vercel.app/api?username=iMercyzl&show_icons=true&theme=onedark'/>
-  <img height ='160em' src='https://github-readme-stats.vercel.app/api/top-langs?username=iMercyzl&show_icons=true&theme=onedark&locale=en&layout=compact'/>
+  <img height ='150em' src='https://github-readme-stats.vercel.app/api?username=iMercyzl&show_icons=true&theme=onedark'/>
+  <img height ='150em' src='https://github-readme-stats.vercel.app/api/top-langs?username=iMercyzl&show_icons=true&theme=onedark&locale=en&layout=compact'/>
 </div><br>
   <h3>Redes Sociais:</h3>
     <p algn='left'>
