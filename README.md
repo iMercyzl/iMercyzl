@@ -2,10 +2,10 @@
 
 
 
-- 🌱 Estudando: JAVASCRIPT, HTML5 e CSS3
-- 😅 Tentando Iniciar uma nova carreira
-- 🤝 A Procura de colaborar de pequenos projetos para ganhar experiência de projetos em equipe
-- 😄 Pronomes: ele/dele
+- 🌱 Estudate: ADS | Cruzeiro do Sul EAD.
+- 😅 Tentando Iniciar uma nova carreira.
+- 🤝 Aberto a propostas de projetos e entrevista para vagas.
+- 😄 Apaixonado por tecnilogia
 
 
 <div>
