@@ -30,5 +30,5 @@
 - [Projeto ABC](link_do_projeto_abc): Outro exemplo de projeto destacado.
 
 ### Hobbies
-- [Games e Academia ]
+- Games🕹️ Gym💪
 
