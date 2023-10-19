@@ -1,9 +1,13 @@
 ## Salve 🤙, eu sou o Pedro Luiz
 
--  Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Cruzeiro do Sul EAD.
--  Tentando iniciar uma nova carreira na área de tecnologia.
--  Aberto a propostas de projetos e entrevistas para vagas.
--  Apaixonado por Tecnologia.
+- 🚀 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Cruzeiro do Sul EAD, buscando constantemente atualizações no mundo da tecnologia para aplicar em projetos inovadores.
+
+- 💡 Em transição para uma carreira na área de tecnologia, estou animado para explorar novos horizontes e contribuir para soluções criativas que impulsionem o progresso digital.
+
+- 💬 Aberto a propostas de projetos desafiadores e entrevistas para oportunidades que permitam expandir meu conhecimento e aprimorar minhas habilidades em desenvolvimento de software, especialmente em tecnologias como JavaScript e React.
+
+- 🌐 Apaixonado por Tecnologia, acredito no poder da inovação para transformar ideias em realidade. Estou determinado a fazer parte de equipes dinâmicas que compartilham essa visão e estão comprometidas com o desenvolvimento tecnológico.
+
 
 ### Estatísticas do GitHub
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=iMercyzl&show_icons=true&theme=onedark)](https://github.com/iMercyzl)
@@ -26,8 +30,8 @@
 
 
 ### Projetos Destacados
-- [Projeto XYZ](link_do_projeto_xyz): Descrição breve do projeto e tecnologias utilizadas.
-- [Projeto ABC](link_do_projeto_abc): Outro exemplo de projeto destacado.
+- Em breve...
+- Em breve...
 
 ### Hobbies
 - Games🕹️ Gym💪
