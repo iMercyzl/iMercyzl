@@ -5,7 +5,7 @@
 - 🌱 Estudate: ADS | Cruzeiro do Sul EAD.
 - 😅 Tentando Iniciar uma nova carreira.
 - 🤝 Aberto a propostas de projetos e entrevista para vagas.
-- 😄 Apaixonado por tecnilogia
+- 😄 Apaixonado por Tecnologia
 
 
 <div>
